@@ -1,6 +1,6 @@
 # Delivery-Drone-Simulation
 
-Developed in Spring 2023, CSCI 3081, University of Minnesota - Twin Cities
+This project was completed in Spring 2023 at the University of Minnesota
 
 Full stack framework and extensions for robot pickup and delivery. Credit to Ashlyn Pietrowsku, Phoebe Rodda, Hannah Kim, Ace Kuang, and the Universityf of Minnesota - Twin Cities, for their contributions to the project. 
 TODO: Specificly reference what is my and what is others' work.
